@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Stats
+<a href="https://github.com/migrap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=migrap&show_icons=true&line_height=27&count_private=true&title_color=e4740c&text_color=c9cacc&icon_color=e4740c&bg_color=1d1f21" alt="Dante's GitHub Stats" />
+</a>
